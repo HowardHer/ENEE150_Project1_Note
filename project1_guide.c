@@ -98,7 +98,7 @@ int add(int input);
 	 * This is similar to HW1 question 2
 	 */
 
-/* For these 3 functions below, if you want to implement them by sorting the array first, 
+/* For these 5 functions below, if you want to implement them by sorting the array first, 
  * be sure to make a copy first. Othewise, the sequence of the values may become different*/
 int maximum(int array[]);
 	/* This returns the maximum value within an array
