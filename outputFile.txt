@@ -116,7 +116,7 @@ ending balance: $6.44
 lost: $43.81
 average_random_numbers: 60.62
 average sum: 9.38
-number of rounds won: 6
+number of rounds won: 5
 
 David:
 initial balance: $45.00
@@ -127,9 +127,9 @@ average sum: 9.08
 number of rounds won: 4
 
 largest winning sum: 16 in round 1 (2 13 16 14)
-smallest winning sum: 8 in round 13 (7 1 8 5)
+smallest winning sum: 9 in round 2 (5 4 9 5)
 largest non-winning sum: 14 in round 1 (2 13 16 14)
-average winning sum: 12.77
+average winning sum: 13.17
 largest net win: $13.21 Alice in round 8 ($13.21 $0.46 $0.29 $-13.96)
 largest net loss: $-14.41 Bob in round 6 ($10.72 $-14.41 $2.17 $1.53)
 number of rounds with 2-way tied winning sum: 2
