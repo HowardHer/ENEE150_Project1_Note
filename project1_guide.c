@@ -125,8 +125,8 @@ int get_max_index(float array[]);
 	 * This is helpful for determining the player who has the largest net win
 	 */
 
-int get_second_max_index(float array[]);
-	/* This function returns the index associated with the second maximum value within the array.
+int get_minimum_index(float array[]);
+	/* This function returns the index associated with the maximum value within the array.
 	 * This is helpful for determining the player who has the largest net loss
 	 */
 
