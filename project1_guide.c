@@ -41,8 +41,8 @@ typedef struct{
 	/* This structure should include the player attributes that you need to print out
 	 * for the game statistics. You need to figure these attributes out so that you can
 	 * use them for printing. (It will be helpful if you initialize this as an array in 
-	 * main.) (Don't store all the data for every round, process them within
-	 * each round, and only store the important statistics)
+	 * main., such as Person player[4];) (Don't store all the data for every round, 
+	 * process them within each round, and only store the important statistics)
 	 *
 	 * Think about how you can use this in the game stat below:
 	 * -----------------------------------------------------------
