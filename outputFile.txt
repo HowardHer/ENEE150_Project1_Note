@@ -1,152 +1,120 @@
 Round 1:
-Alice: 90-->9	Bob: 19-->10	Carol: 88-->16	David: 75-->12	
-Carol contributes $16.00 to the pool. New balance: $34.25
-Alice takes $5.57, new balance is $45.57
-Bob takes $4.40, new balance is $40.25
-Carol takes $4.22, new balance is $38.47
-David takes $1.81, new balance is $46.81
+Alice: 15-->6	Bob: 77-->14	Carol: 86-->14	David: 83-->11	
+Bob contributes $14.00 to the pool. New balance: $21.85
+Alice takes $11.76, new balance is $51.76
+Bob takes $0.88, new balance is $22.73
+Carol takes $1.06, new balance is $51.31
+David takes $0.29, new balance is $45.29
 
 Round 2:
-Alice: 77-->14	Bob: 45-->9	Carol: 27-->9	David: 42-->6	
-Alice contributes $14.00 to the pool. New balance: $31.57
-Alice takes $4.14, new balance is $35.71
-Bob takes $2.68, new balance is $42.93
-Carol takes $0.50, new balance is $38.97
-David takes $6.68, new balance is $53.49
+Alice: 92-->11	Bob: 86-->14	Carol: 35-->8	David: 93-->12	
+Bob contributes $14.00 to the pool. New balance: $8.73
+Alice takes $11.18, new balance is $62.94
+Bob takes $2.57, new balance is $11.30
+Carol takes $0.05, new balance is $51.36
+David takes $0.20, new balance is $45.49
 
 Round 3:
-Alice: 37-->10	Bob: 49-->13	Carol: 54-->9	David: 73-->10	
-Bob contributes $13.00 to the pool. New balance: $29.93
-Alice takes $10.95, new balance is $46.67
-Bob takes $0.56, new balance is $30.49
-Carol takes $0.89, new balance is $39.85
-David takes $0.60, new balance is $54.09
+Alice: 27-->9	Bob: 62-->8	Carol: 21-->3	David: 49-->13	
+David contributes $13.00 to the pool. New balance: $32.49
+Alice takes $4.36, new balance is $67.30
+Bob takes $6.64, new balance is $17.94
+Carol takes $0.56, new balance is $51.92
+David takes $1.45, new balance is $33.94
 
 Round 4:
-Alice: 72-->9	Bob: 69-->15	Carol: 15-->6	David: 67-->13	
-Bob contributes $15.00 to the pool. New balance: $15.49
-Alice takes $13.35, new balance is $60.01
-Bob takes $1.41, new balance is $16.90
-Carol takes $0.08, new balance is $39.93
-David takes $0.17, new balance is $54.26
+Alice: 26-->8	Bob: 63-->9	Carol: 59-->14	David: 90-->9	
+Carol contributes $14.00 to the pool. New balance: $37.92
+Alice takes $7.76, new balance is $75.05
+Bob takes $2.98, new balance is $20.93
+Carol takes $2.05, new balance is $39.97
+David takes $1.21, new balance is $35.15
 
 Round 5:
-Alice: 96-->15	Bob: 63-->9	Carol: 13-->4	David: 86-->14	
-Alice contributes $15.00 to the pool. New balance: $45.01
-Alice takes $12.82, new balance is $57.83
-Bob takes $1.60, new balance is $18.50
-Carol takes $0.54, new balance is $40.47
-David takes $0.04, new balance is $54.30
+Alice: 36-->9	Bob: 72-->9	Carol: 26-->8	David: 40-->4	
+Alice contributes $9.00 to the pool. New balance: $66.05
+Alice takes $3.28, new balance is $69.34
+Bob takes $2.94, new balance is $23.86
+Carol takes $2.65, new balance is $42.62
+David takes $0.13, new balance is $35.28
 
 Round 6:
-Alice: 96-->15	Bob: 52-->7	Carol: 77-->14	David: 73-->10	
-Alice contributes $15.00 to the pool. New balance: $42.83
-Alice takes $11.15, new balance is $53.98
-Bob takes $1.03, new balance is $19.53
-Carol takes $0.73, new balance is $41.20
-David takes $2.09, new balance is $56.39
+Alice: 29-->11	Bob: 67-->13	Carol: 68-->14	David: 11-->2	
+Carol contributes $14.00 to the pool. New balance: $28.62
+Alice takes $12.83, new balance is $82.16
+Bob takes $0.75, new balance is $24.61
+Carol takes $0.31, new balance is $28.92
+David takes $0.12, new balance is $35.41
 
 Round 7:
-Alice: 28-->10	Bob: 6-->6	Carol: 60-->6	David: 65-->11	
-David contributes $11.00 to the pool. New balance: $45.39
-Alice takes $10.14, new balance is $64.12
-Bob takes $0.56, new balance is $20.09
-Carol takes $0.23, new balance is $41.43
-David takes $0.07, new balance is $45.46
+Alice: 23-->5	Bob: 62-->8	Carol: 30-->3	David: 82-->10	
+David contributes $10.00 to the pool. New balance: $25.41
+Alice takes $1.42, new balance is $83.58
+Bob takes $5.21, new balance is $29.82
+Carol takes $0.05, new balance is $28.98
+David takes $3.32, new balance is $28.72
 
 Round 8:
-Alice: 44-->8	Bob: 45-->9	Carol: 99-->18	David: 66-->12	
-Carol contributes $18.00 to the pool. New balance: $23.43
-Alice takes $13.65, new balance is $77.77
-Bob takes $3.13, new balance is $23.22
-Carol takes $0.82, new balance is $24.25
-David takes $0.41, new balance is $45.87
+Alice: 2-->2	Bob: 29-->11	Carol: 35-->8	David: 67-->13	
+David contributes $13.00 to the pool. New balance: $15.72
+Alice takes $3.16, new balance is $86.74
+Bob takes $1.35, new balance is $31.17
+Carol takes $6.83, new balance is $35.81
+David takes $1.66, new balance is $17.39
 
 Round 9:
-Alice: 23-->5	Bob: 48-->12	Carol: 5-->5	David: 86-->14	
-David contributes $14.00 to the pool. New balance: $31.87
-Alice takes $9.53, new balance is $87.30
-Bob takes $2.56, new balance is $25.77
-Carol takes $0.97, new balance is $25.22
-David takes $0.94, new balance is $32.81
+Alice: 67-->13	Bob: 69-->15	Carol: 58-->13	David: 22-->4	
+Bob contributes $15.00 to the pool. New balance: $16.17
+Alice takes $2.35, new balance is $89.09
+Bob takes $5.07, new balance is $21.24
+Carol takes $0.98, new balance is $36.79
+David takes $6.59, new balance is $23.98
 
 Round 10:
-Alice: 16-->7	Bob: 56-->11	Carol: 17-->8	David: 68-->14	
-David contributes $14.00 to the pool. New balance: $18.81
-Alice takes $1.72, new balance is $89.02
-Bob takes $12.04, new balance is $37.81
-Carol takes $0.08, new balance is $25.29
-David takes $0.17, new balance is $18.98
-
-Round 11:
-Alice: 43-->7	Bob: 10-->1	Carol: 45-->9	David: 49-->13	
-David contributes $13.00 to the pool. New balance: $5.98
-Alice takes $7.41, new balance is $96.42
-Bob takes $1.91, new balance is $39.72
-Carol takes $3.14, new balance is $28.44
-David takes $0.54, new balance is $6.52
-
-Round 12:
-Alice: 37-->10	Bob: 4-->4	Carol: 85-->13	David: 33-->6	
-Carol contributes $13.00 to the pool. New balance: $15.44
-Alice takes $11.59, new balance is $108.01
-Bob takes $1.32, new balance is $41.04
-Carol takes $0.06, new balance is $15.49
-David takes $0.03, new balance is $6.55
-
-Round 13:
-Alice: 3-->3	Bob: 60-->6	Carol: 37-->10	David: 51-->6	
-Carol contributes $10.00 to the pool. New balance: $5.49
-Alice takes $3.58, new balance is $111.60
-Bob takes $5.85, new balance is $46.89
-Carol takes $0.21, new balance is $5.70
-David takes $0.35, new balance is $6.91
-
-Round 14:
-Alice: 60-->6	Bob: 96-->15	Carol: 81-->9	David: 69-->15	
-Bob contributes $15.00 to the pool. New balance: $31.89
-Alice takes $1.97, new balance is $113.57
-Bob takes $4.65, new balance is $36.54
-Carol takes $4.62, new balance is $10.32
-David takes $3.76, new balance is $10.67
+Alice: 42-->6	Bob: 11-->2	Carol: 56-->11	David: 93-->12	
+David contributes $12.00 to the pool. New balance: $11.98
+Alice takes $1.31, new balance is $90.39
+Bob takes $2.33, new balance is $23.57
+Carol takes $4.29, new balance is $41.08
+David takes $4.07, new balance is $16.05
 
 Alice:
 initial balance: $40.00
-ending balance: $113.57
-lost: $-73.57
-average_random_numbers: 48.67
-average sum: 9.07
-number of rounds won: 3
+ending balance: $90.39
+lost: $-50.39
+average_random_numbers: 32.64
+average sum: 7.27
+number of rounds won: 1
 
 Bob:
 initial balance: $35.85
-ending balance: $36.54
-lost: $-0.69
-average_random_numbers: 42.67
-average sum: 9.07
+ending balance: $23.57
+lost: $12.28
+average_random_numbers: 54.36
+average sum: 9.36
 number of rounds won: 3
 
 Carol:
 initial balance: $50.25
-ending balance: $10.32
-lost: $39.93
-average_random_numbers: 53.40
-average sum: 10.20
-number of rounds won: 5
+ending balance: $41.08
+lost: $9.17
+average_random_numbers: 43.09
+average sum: 8.73
+number of rounds won: 2
 
 David:
 initial balance: $45.00
-ending balance: $10.67
-lost: $34.33
-average_random_numbers: 61.40
-average sum: 11.00
+ending balance: $16.05
+lost: $28.95
+average_random_numbers: 57.27
+average sum: 8.18
 number of rounds won: 4
 
-largest winning sum: 18 in round 8 (8 9 18 12)
-smallest winning sum: 10 in round 13 (3 6 10 6)
-largest non-winning sum: 15 in round 14 (6 15 9 15)
-average winning sum: 14.20
-largest net win: $13.65 Alice in round 8 ($13.65 $3.13 $-17.18 $0.41)
-largest net loss: $-17.18 Carol in round 8 ($13.65 $3.13 $-17.18 $0.41)
-number of rounds with 2-way tied winning sum: 1
+largest winning sum: 15 in round 9 (13 15 13 4)
+smallest winning sum: 9 in round 5 (9 9 8 4)
+largest non-winning sum: 14 in round 1 (6 14 14 11)
+average winning sum: 12.80
+largest net win: $12.83 Alice in round 6 ($12.83 $0.75 $-13.69 $0.12)
+largest net loss: $-13.69 Carol in round 6 ($12.83 $0.75 $-13.69 $0.12)
+number of rounds with 2-way tied winning sum: 2
 number of rounds with 3-way tied winning sum: 0
