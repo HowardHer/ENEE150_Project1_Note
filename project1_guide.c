@@ -165,3 +165,89 @@ void copy_values(int a[], int b[]);
  * The space acts as a buffer so that in the next iteration when you use fgetc,
  * you won't scan '\n' as part of the player's name. 
  */
+
+
+
+/* Some psuedo code: */
+// int main(int argc, char **argv){
+// 	when mode == 1, check if there are 7 arguments
+// 	when mode == 2, check if there are 6 arguments
+
+// 	./a.out mode seed round names.txt (numbers.txt) outputFile.txt
+// 	Use fopen to assign the FILE pointers based on which mode is given
+
+// 	Error checking to see if these input files exist
+
+// 	initialize all players' attributes to 0
+// 	get names, balance, and initial_balance from names.txt
+
+// 	for each round (when round number is not reached){
+// 		if mode == 1, check if EOF is reached. If it is, break
+
+// 		for each player{
+// 			if mode == 1, get values from numbers.txt
+// 			else generate values from 0-99 using rand()
+
+// 			calculate the sum of digit for each value
+// 			add the value to each player's total_random_number so that later on you can calculate the average random number
+// 			add the sum to each player's total_sum so that later on you can calculate the average sum
+// 		}
+
+// 		find the winning_sum among the four values in this round
+// 		find the corresponding winner index
+
+// 		if player[index].balance - winning_sum is less than 0
+// 			game is finished, break
+
+// 		Find:
+// 		largest_winning_sum
+// 		largest_non_winning_sum
+// 		smallest_winning_sum
+// 		average_winning_sum
+// 		win_count
+
+// 		winning_sum is dedeucted from the winner's balance (this is what the winner contributes)
+//		print what is contributed and the winner's new balance
+
+// 		for each player{
+// 			if last player is reached{
+// 				give him the remaining winning_sum
+// 			}
+// 			Draw a random amount of money from the winning_sum (get at least 0.01, remain at least 0.01*remaining_people)
+// 			add the random amount to player[i]'s balance
+// 			winning_sum deducted by the random_amount
+// 			record what each player get within the round
+// 		}
+
+// 		Find:
+// 		largest_net_win
+// 		largest_net_loss
+// 		two-way-tie happens?
+// 		three-way-tie happens?
+
+// 		for each player
+// 			print what each player get in each round and their new balance
+
+// 		// END OF EACH ROUND
+// 	}
+
+// 	Print out all players' attibutes, including:
+// 		initial balance
+// 		ending balance
+// 		lost
+// 		average_random_number
+// 		average_sum
+// 		number of rounds won
+
+// 	Print out:
+// 		largest_winning_sum
+// 		smallest_winning_sum
+// 		largest_non_winning_sum
+// 		average_winning_sum
+// 		largest_net_win
+// 		largest_net_loss
+// 		count of two-way-ties
+// 		count of three-way-ties	
+
+// 	return 0;
+// }
